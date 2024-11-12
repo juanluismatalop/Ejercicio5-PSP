@@ -1,5 +1,7 @@
 package Ejercicio5_PSP;
 
+import Ejercicio5_PSP.Hilo;
+
 public class TransferenciaConBloqueo {
     public static void main(String[] args) {
         Cuenta c1 = new Cuenta("ES388388433883838388484", 20500);
